@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 # gathrr_organiser
 
 A new Flutter project.
+=======
+# gathrr_organizer
+
+A new Flutter application.
+>>>>>>> 7f77dc0f40e4fcee4f83a6b736416842d5fc1ee8
 
 ## Getting Started
 

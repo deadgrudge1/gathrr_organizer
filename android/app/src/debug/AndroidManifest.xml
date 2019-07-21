@@ -1,5 +1,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< HEAD
     package="com.example.gathrr_organiser">
+=======
+    package="com.example.gathrr_organizer">
+>>>>>>> 7f77dc0f40e4fcee4f83a6b736416842d5fc1ee8
     <!-- Flutter needs it to communicate with the running application
          to allow setting breakpoints, to provide hot reload, etc.
     -->

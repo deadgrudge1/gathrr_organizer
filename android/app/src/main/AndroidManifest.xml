@@ -1,8 +1,12 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< HEAD
     package="com.example.gathrr_organiser">
 
     <uses-permission android:name="android.permission.INTERNET"/>
     <uses-permission android:name="android.permission.CAMERA" />
+=======
+    package="com.example.gathrr_organizer">
+>>>>>>> 7f77dc0f40e4fcee4f83a6b736416842d5fc1ee8
 
     <!-- io.flutter.app.FlutterApplication is an android.app.Application that
          calls FlutterMain.startInitialization(this); in its onCreate method.
@@ -11,7 +15,11 @@
          FlutterApplication and put your custom class here. -->
     <application
         android:name="io.flutter.app.FlutterApplication"
+<<<<<<< HEAD
         android:label="gathrr_organiser"
+=======
+        android:label="gathrr_organizer"
+>>>>>>> 7f77dc0f40e4fcee4f83a6b736416842d5fc1ee8
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
@@ -32,6 +40,9 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
+<<<<<<< HEAD
         <activity android:name="com.apptreesoftware.barcodescan.BarcodeScannerActivity"/>
+=======
+>>>>>>> 7f77dc0f40e4fcee4f83a6b736416842d5fc1ee8
     </application>
 </manifest>

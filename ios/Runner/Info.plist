@@ -2,8 +2,11 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+<<<<<<< HEAD
     <key>NSCameraUsageDescription</key>
     <string>Camera permission is required for QR scanning.</string>
+=======
+>>>>>>> 7f77dc0f40e4fcee4f83a6b736416842d5fc1ee8
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleExecutable</key>
@@ -13,7 +16,11 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
+<<<<<<< HEAD
 	<string>gathrr_organiser</string>
+=======
+	<string>gathrr_organizer</string>
+>>>>>>> 7f77dc0f40e4fcee4f83a6b736416842d5fc1ee8
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
